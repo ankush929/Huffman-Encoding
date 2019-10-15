@@ -22,7 +22,7 @@ public class Main {
 
 
         long startTime = initTimeCal(csvWriter);
-        for (int n = 2; n < 11 ; n++) {
+        for (int n = 2; n < 222 ; n++) {
 
             HuffmanEncoder huffmanEncoder = new HuffmanEncoder(n, charArrayList.get(n-2), charFreqList.get(n-2));  // init input
             Node root = huffmanEncoder.encoder();            //Encode values
