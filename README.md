@@ -6,4 +6,4 @@ a. Binary code for any symbol is not the prefix of the binary code of another sy
 b. The weighted length of codes for all the symbols (weighted by the usage frequency) is minimized.
 
 Solution :
-See Algo Project 2.pdf
+[Algo Project 2.pdf](https://github.com/ankush929/Huffman-Encoding/blob/master/Algo%20Project%202.pdf)
